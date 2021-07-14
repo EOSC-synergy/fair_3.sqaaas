@@ -13,5 +13,5 @@ sqa_criteria:
         - '/bin/curl -H ''Content-Type: application/json'' -X POST -d ''{"id": "10261/157765",
           "repo": "oai-pmh", "oai_base": "http://digital.csic.es/dspace-oai/request"}''
           http://localhost:9090/v1.0/rda/rda_all'
-        container: qc.fair_tacky-asparagus-capybara
+        container: qc.fair_bumpy-pear-armadillo
 timeout: 600
