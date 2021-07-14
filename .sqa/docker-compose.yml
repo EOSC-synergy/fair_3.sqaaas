@@ -1,5 +1,5 @@
 services:
-  qc.fair_bumpy-green-cougar:
+  qc.fair_tacky-asparagus-capybara:
     command: sleep 6000000
     image: ferag/fair_eva:fair
     volumes:
